@@ -1,0 +1,1 @@
+soundblast irq port set   soundblast board sx pc jumper irq port h conflict parallel port ide control multi io board ser par port vga board choos anoth irq besid irq safe use motherboard  recent ad modem comput notic lpt use irq sb card h never problem wonder thought would caus conflict  would also like explan anyon explain sb pro lpt share irq plea thank    tom huot  

@@ -1,0 +1,1 @@
+problem parallel  write program use parallel port problem need gener interrupt ack line pul get occur unabl gener succes interrupt  someon suggest may resolv problem  thank   

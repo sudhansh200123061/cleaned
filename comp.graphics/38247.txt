@@ -1,0 +1,1 @@
+distanc two bezier curv   suppos two cubic bezier curv control point v v w w equal first last control point v w v w get upper bound distanc curv  distanc distanc one point ti first curv point curv paramet u ti   refer appreci thank anvanc  pekka siltanen  

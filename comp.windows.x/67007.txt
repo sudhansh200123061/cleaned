@@ -1,0 +1,1 @@
+xtranslatecoord problem  seem like xtranslatecoord work way expect right perform xmovewindow want know absolut window posit respect root window get info xtranslatecoordin ab x ab right anybodi know way find inform    steve  say vm 

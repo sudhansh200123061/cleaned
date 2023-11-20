@@ -1,0 +1,1 @@
+need diod model pspice   im design circuit silicon diod dont need modifi paramet problem accept follow statement  model diod  pspice book terribl would appreci help   neil gandler  gandler electron home autom electron design technolog  

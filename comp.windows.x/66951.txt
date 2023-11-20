@@ -1,0 +1,1 @@
+xterm build problem solari   continu build problem got stuck build xterm  gcc fpcc struct return xterm main input charproc cursor util tab screen scrollbar button tekproc misc vtprstbl tekprstbl data menu r usr wgep xr lib ld run path ld run path l lib xaw 

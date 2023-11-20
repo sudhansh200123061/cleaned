@@ -1,0 +1,1 @@
+soundblast irq port set    two devic isa bu pc share interrupt implement singl card  interest would care explain soundblast pro card printer card share irq success assur set irq problem comput dtk ibm clone  paul bartholomew  configur devic irq long use simultan least lpt sb sit tell someth configur soundblast irq got ethernet card hit irq thousand time per second  marku 

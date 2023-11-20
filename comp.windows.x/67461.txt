@@ -1,0 +1,1 @@
+dce rpc thread x motif client   anyon use dce thread x client possibl one thread listen incom rpc anoth process x event set someth like atul   

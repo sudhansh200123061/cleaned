@@ -1,0 +1,1 @@
+xwindow alway opaqu    wonder possibl parent window paint area child could possibl implement rubberband across multipl xwindow select object display one window  use gc subwindow mode attribut set includeinferior default clipbychildren howev bewar child differ depth parent semant undefin protocol  du pont pixel system ltd  

@@ -1,0 +1,1 @@
+hardwar hash function  write  question fast hash function design hardwar implement  ye use stream cipher chip hash data slight modif see  fast cryptograph checksum algorithm base stream cipher x lai ra rueppel j woolven auscrypt pp  ross 

@@ -1,0 +1,1 @@
+overrid default wm behaviour  specifi ramdomplac randomplac tvtwmrc place window interact pseudo random posit screen 

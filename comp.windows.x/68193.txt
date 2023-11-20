@@ -1,0 +1,1 @@
+blink cursor xterm   back day x analys xterm code cursor implement draw rectangl around charact seem chang til sourc could add blink cursor via xtappaddtimeout similar  server overhead mildli ridicul though see also desqview x window realli want xterm wake everi half second whack server bitblt  brandon 

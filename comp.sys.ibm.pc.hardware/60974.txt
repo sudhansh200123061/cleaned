@@ -1,0 +1,1 @@
+scsi v ide  scsi card system requir separ devic driver load memori scsi devic hook also true bit o  thank  randi  

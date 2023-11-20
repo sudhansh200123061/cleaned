@@ -1,0 +1,1 @@
+draw line invers xor  also set foreground xor foreground background color xsetforeground fg bg work great least truecolor visual 

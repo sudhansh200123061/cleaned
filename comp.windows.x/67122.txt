@@ -1,0 +1,1 @@
+function key text string translat   want press function key text string appear xmtext widget put  xmtext translat augment n key f insert string hello  resourc file translat happen put  xmtext translat key f insert string hello  file get text string hello f press key work make sen sinc default translat mode replac  syntax problem someth deeper  

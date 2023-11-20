@@ -1,0 +1,1 @@
+summari virtual mous ol v wm  regard summari virtual mous ol v wm virtualgrabkey ow resourc belong olvwm  olvwm version man page say call  grabvirtualkey boolean resourc control whether key mark involv grab activ resourc set fals none bind mark asterisk ever activ default valu true   

@@ -1,0 +1,1 @@
+mix gl x xlib xt mwm    widget alreadi defin gl glxmdraw motif glxdraw athena widget similar xmdrawingarea except allow use gl call render window look glxlink glxunlink glxgetconfig glxwinset man page  get hold widget  du pont pixel system ltd 

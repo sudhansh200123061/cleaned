@@ -1,0 +1,1 @@
+vga x graphic mode  vesa tsr support  report crt regist state mode thank   

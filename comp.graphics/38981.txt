@@ -1,0 +1,1 @@
+rawgif  use pbm rawtopgm convert three raw r g b file pgm format use pgmtoppm convert pgm file composit ppm file feed cjpeg compress slow circuit work  rick 

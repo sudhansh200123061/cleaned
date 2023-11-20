@@ -1,0 +1,1 @@
+help ad scsi drive coexist ide      dont think mix two type drive unless one  scsi ide card avail turn ide   true impress peopl net scsi ide work togeth  run home ok cumpter turn right boot bsd ide drive system scsi drive  use adaptec b name el cheapo ide card     well seem anythi forget help realli appreci lost  eric   mark     guy   guy dawson hoskyn group plc 

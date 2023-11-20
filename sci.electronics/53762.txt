@@ -1,0 +1,1 @@
+motorola xcrc rc  know fpu xc origin mhz fpu label mc seem work fine system p mean experiment chip instead motorola chip  rule design say mc mean work exactli way datasheet book specifi say xc mean least one known bug often bug small obscur might never run practic  least motorola admit unlik certain compani  
